@@ -4,22 +4,19 @@
 
 *"Self-Portrait with Two Circles" (c. 1665–1669) by Rembrandt van Rijn — [Wikipedia](https://en.wikipedia.org/wiki/Self-Portrait_with_Two_Circles)*
 
-Pedro Delfino's resume, maintained as a PDF.
+Pedro Delfino's resume.
+
+**Note:** The PDF in this repository is outdated. For up-to-date information, see the links below.
 
 ## About
-
-This repository holds the current version of my resume. It is available as a ready-to-view PDF.
-
-### Background
 
 - **Applied Mathematics** (B.Sc.) -- EMAp, Fundacao Getulio Vargas (FGV)
 - **Law** (LL.B.) -- FGV DIREITO RIO
 - Dual-degree graduate with experience spanning software development, technical writing, and legal analysis.
 
-## Files
+## Links
 
-- `cv_pedro_delfino.pdf` -- the current resume
-
-## Author
-
-Pedro Delfino -- [GitHub](https://github.com/pdelfino) -- [pedrodelfino.com](https://pedrodelfino.com)
+- [LinkedIn](https://www.linkedin.com/in/pedro-delfino/) -- most up-to-date professional profile
+- [pedrodelfino.com](https://pedrodelfino.com) -- personal blog (English)
+- [pdelfino.com.br](https://www.pdelfino.com.br) -- personal blog (Portuguese)
+- [GitHub](https://github.com/pdelfino)
