@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-![Self-Portrait with Two Circles](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rembrandt_Self-portrait_%28Kenwood%29.jpg/960px-Rembrandt_Self-portrait_%28Kenwood%29.jpg)
+![Self-Portrait with Two Circles](./painting.jpg)
 
 *"Self-Portrait with Two Circles" (c. 1665–1669) by Rembrandt van Rijn — [Wikipedia](https://en.wikipedia.org/wiki/Self-Portrait_with_Two_Circles)*
 
